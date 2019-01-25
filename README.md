@@ -2,7 +2,7 @@
 
 'Silverbullet' for a quickstart Rust CI based upon [Github Actions](https://developer.github.com/actions/)
 
-*Inside the box:*
+*What's inside the "box":*
 
 * Rust 1.32.0
 * Rustfmt
