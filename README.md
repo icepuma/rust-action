@@ -19,5 +19,6 @@ workflow "Quickstart" {
 
 action "Quickstart" {
   uses = "icepuma/rust-github-action@master"
+  args = "cargo fmt -- --check && cargo clippy -- -Dwarnings && cargo test"
 }
 ```

@@ -1,0 +1,7 @@
+[package]
+name = "rust-action"
+version = "0.1.0"
+authors = ["Stefan Ruzitschka <icepuma@godda.mn>"]
+edition = "2018"
+
+[dependencies]
