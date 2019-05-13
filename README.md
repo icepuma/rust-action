@@ -8,6 +8,7 @@
 * Rustfmt
 * Clippy
 * Cargo Release
+* cmake - Thanks @ [bwasty](https://github.com/bwasty)
 
 # Usage
 
