@@ -4,7 +4,7 @@
 
 *What's inside the "box":*
 
-* Rust 1.38.0
+* Rust 1.39.0
 * Rustfmt
 * Clippy
 * Cargo Release
