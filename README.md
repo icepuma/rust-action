@@ -12,14 +12,20 @@
 
 # Usage
 
-```
-workflow "Quickstart" {
-  on = "push"
-  resolves = ["Quickstart"]
-}
+In a file inside `.github/workflows/quickstart.yml`
 
-action "Quickstart" {
-  uses = "icepuma/rust-action@master"
-  args = "cargo fmt -- --check && cargo clippy -- -Dwarnings && cargo test"
-}
+```yaml
+name: Rust Example
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - uses: icepuma/rust-action@master
+        with:
+          args: cd integration-test && cargo fmt -- --check && cargo clippy -- -Dwarnings && cargo test
 ```
