@@ -1,0 +1,9 @@
+name: "Rust Action"
+description: "'Silverbullet' for a quickstart Rust CI based upon Github Actions"
+author: "Stefan Ruzitschka"
+branding:
+  icon: "play-circle"
+  color: "gray-dark"
+runs:
+  using: "docker"
+  image: "Dockerfile"
