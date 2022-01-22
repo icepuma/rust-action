@@ -1,4 +1,4 @@
-FROM rust:1.58.0
+FROM rust:1.58.1
 
 LABEL "com.github.actions.name"="Rust Action"
 LABEL "com.github.actions.description"="'Silverbullet' for a quickstart Rust CI based upon Github Actions"
