@@ -1,5 +1,7 @@
 # Rust Github Action
 
+:warning: I'm looking for a person, who would like to take over this GitHub action. If you're the person, contact me [here](https://github.com/icepuma/rust-action/issues/2). :warning:
+
 'Silverbullet' for a quickstart Rust CI based upon [Github Actions](https://developer.github.com/actions/)
 
 *What's inside the "box":*
