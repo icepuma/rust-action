@@ -1,7 +1,7 @@
 # Rust Github Action
 
 :warning: Action is deprecated, please use [rust-action](https://github.com/Mirlahiji/rust-action).
-Thanks to @Mirlahiji for taking over the project :heart:
+Thanks to [Mirlahiji](https://github.com/Mirlahiji) for taking over the project :heart:
 
 'Silverbullet' for a quickstart Rust CI based upon [Github Actions](https://developer.github.com/actions/)
 
