@@ -1,6 +1,7 @@
 # Rust Github Action
 
-:warning: I'm looking for a person, who would like to take over this GitHub action. If you're the person, contact me [here](https://github.com/icepuma/rust-action/issues/2). :warning:
+:warning: Action is deprecated, please use [rust-action](https://github.com/Mirlahiji/rust-action).
+Thanks to @Mirlahiji for taking over the project :heart:
 
 'Silverbullet' for a quickstart Rust CI based upon [Github Actions](https://developer.github.com/actions/)
 
